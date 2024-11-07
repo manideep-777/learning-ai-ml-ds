@@ -1,4 +1,4 @@
-# learning-ai-ml-ds
+# Learning AI-ML and Data Science
 
 Welcome! This repository documents my progress and projects as I delve into the fields of **Machine Learning** and **Data Science**. Here, you'll find a collection of my work, learning materials, and practical applications as I explore concepts, algorithms, and tools in these dynamic areas.
 

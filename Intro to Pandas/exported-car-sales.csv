@@ -1,0 +1,11 @@
+,Make,Colour,Odometer (KM),Doors,Price,Seats,fuel per 100(KM),total fuel used(L),Wheels,passed safety drive,Odometer (Miles)
+0,Toyota,White,150043,4,4000,5.0,5.6,8402.408,4,True,93776.875
+1,Honda,Red,87899,4,5000,5.0,7.8,6856.122,4,True,54936.875
+2,Toyota,Blue,32549,3,7000,5.0,3.4,1106.666,4,True,20343.125
+3,BMW,Black,11179,5,22000,5.0,6.8,760.172,4,True,6986.875
+4,Nissan,White,213095,4,3500,5.0,7.8,16621.41,4,True,133184.375
+5,Toyota,Green,99213,4,4500,5.0,8.9,8829.957,4,True,62008.125
+6,Honda,Blue,45698,4,7500,5.0,9.0,4112.82,4,True,28561.25
+7,Honda,Blue,54738,4,7000,5.0,6.7,3667.446,4,True,34211.25
+8,Toyota,White,60000,4,6250,5.0,8.9,5340.0,4,True,37500.0
+9,Nissan,White,31600,4,9700,5.0,2.3,726.8,4,True,19750.0
